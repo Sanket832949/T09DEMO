@@ -10,6 +10,8 @@ public class Demo
 		System.out.println("Hello Git");
 		System.out.println("Hello GitHub");
 		System.out.println("update from github");
+		System.out.println("xyz");
+		System.out.println("pqr");
 		
 	}
 
